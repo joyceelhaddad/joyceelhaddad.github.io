@@ -8,13 +8,18 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of my teaching experience. You can find below my courses 
 
-Heading 1
+Distributed systems and algorithms 
 ======
+XXX
 
-Heading 2
-======
 
-Heading 3
+CDAI
 ======
+XXX
+
+
+Web services
+======
+ YYY
