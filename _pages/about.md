@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Joyce El Haddad"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
