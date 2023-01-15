@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications-Editorship"
+title: "Editorship"
 permalink: /publications/
 author_profile: true
 ---
@@ -30,3 +30,19 @@ Journal
 
 Conference 
 ======
+* Zakaria Maamar, Noura Faci, Joyce El Haddad, Fadwa Yahya, Mohammad Askar. Multi-party Contract Management for Microservices. International Conference on Software Technologies ICSOFT 2022: 276-287
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Measuring Fuzzy Atomicity for Composite Service Execution. International Conference on Open and Big Data (OBD 2016), Vienna, Austria, August 2016, IEEE Computer Society, pp. 62–71, 2016. (invited paper)
+* Faisal Abu-Khzam, Cristina Bazgan, Joyce El Haddad, Florian Sikora. On the Complexity of QoS-Aware Service Selection Problem. International Conference on Service-Oriented Computing (ICSOC 2015), pages 345-352, 2015.  (classement CORE : A, taux de sélection : 25%) 
+* Nadia Gamez, Joyce El Haddad, Lidia Fuentes. SPL-TQSSS: A Software Product Line Approach for Stateful Service Selection. IEEE International Conference on Web Services (ICWS 2015), pages 73-80, 2015. (classement CORE : A, taux de sélection 17%)
+* Amine Louati, Joyce El Haddad, Suzanne Pinson. Trust-Based Coalition Formation for Dynamic Service Composition in Social Networks. Web Information System Engineering (WISE 2015), pages 570-585, 2015. (classement CORE : A)
+* Amine Louati, Joyce El Haddad, Suzanne Pinson. A Multilevel Agent-based Approach for Trustworthy Service Selection in Social Networks. IEEE/WIC/ACM Int. Conference on Intelligent Agent Technology (IAT 2014), pages 214-222, 2014. 
+* Amine Louati, Joyce El Haddad and Suzanne Pinson. A Distributed Decision Making and Propagation Approach for Trust-Based Service Discovery in Social Networks. Joint INFORMS-GDN and EWG-DSS International Conference on Group Decision and Negotiation (GDN 2014), Lecture Notes in Business Information Processing, pages 262-269, 2014. (classement CORE : B)
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Web Service Composition Based on Petri Nets: Review and Contribution. International Workshop on Resource Discovery (RED 2012), Revised Selected Papers, LNCS 8194, pages 83-122, 2013.
+* Amine Louati, Joyce El Haddad, Suzanne Pinson. Trust-Based Service Discovery in Multi-relation Social Networks. 10th International Conference on Service Oriented Computing (ICSOC 2012), pages 664-671, 2012.
+* Joyce El Haddad. Optimization Techniques for QoS-Aware Workflow Realization in Web Services Context. Third International Workshop on Resource Discovery (RED 2010), Revised Selected Papers, LNCS6799, Springer-Verlag, pages 134-149, 2012.
+* Eduardo Blanco, Yudith Cardinale, Maria Esther Vidal, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. A Transactional-QoS-driven Approach for Web Service Composition. Third International Workshop on Resource Discovery (RED 2010), Revised Selected Papers, LNCS 6799, Springer-Verlag, pages 23-42, 2012.
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Web Service Selection for Transactional Composition. International Conference on Computational Science (ICCS 2010, ERA A-ranked conference), Poster Session, pages 2683 - 2692, 2010.
+* Joyce El Haddad, Maude Manouvrier, Guillermo Ramirez, Marta Rukoz. QoS-driven Selection of Web Services for Transactional Composition. IEEE International Conference on Web Services (ICWS 08, Industry Track, 18% taux de sélection), Beijing, China, September 23-26, pages 653 - 660, 2008.
+* Joyce El Haddad, Maude Manouvrier, Marta Rukoz. A Hierarchical Model for Transactional Web Service Composition in P2P Networks. IEEE International Conference on Web Services (ICWS 07, Research Track, 18% taux de sélection), Salt Lake City, Utah, USA, July 9-13, pages 346 - 353, 2007.
+* Joyce El Haddad, Serge Haddad. A Fault-contained Spanning Tree Protocol for General Networks. 17th International Conference on Parallel and Distributed Computing Systems (PDCS 2004), pages 410- 415, 2004.
+* Joyce El Haddad, Serge Haddad. A Self-Stabilizing Scheduling Algorithm for Cooperating Robots.  ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2003), pages 128 - 135, 2003.
