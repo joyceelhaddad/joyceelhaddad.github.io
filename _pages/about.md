@@ -20,8 +20,8 @@ Tel : +33 1 44 05 49 19
 Research interests
 ------
 My current research activity addresses:
-* Business Process Management 
-* Mining Business Processes and Software
+* Predictive Process Mining 
+* Software Mining
 * Cloud, Edge, Microservices Management 
 
 My other research activity deals with : 
