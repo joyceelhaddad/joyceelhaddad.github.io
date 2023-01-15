@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Editorship"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,25 +11,26 @@ author_profile: true
 
 {% include base_path %}
 
-
+Editorship
+---
 * Muhammad Younas, Irfan Awan, Joyce El Haddad. Proceedings of the 4th IEEE International Conference on Future Internet of Things and Cloud Workshops, FiCloud Workshops 2016, Vienna, Austria, August 22-24, IEEE Computer Society, 2016. 
 
 Book Chapters 
-======
-* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Transactional-aware Web Service Composition: A Survey. Book Chapter, Handbook of Research on Non-Functional Properties for Service-Oriented Systems: Future Directions, IGI Global, pages 116-141, 2011.
+---
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. _Transactional-aware Web Service Composition: A Survey_. Book Chapter, Handbook of Research on Non-Functional Properties for Service-Oriented Systems: Future Directions, IGI Global, pages 116-141, 2011.
 
 International Journal Articles
-======
-* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Fuzzy ACID Properties for Self-Adaptive Composite Cloud Services Execution. Concurrency and Computation : Practice and Experience, November 2017
-* Amine Louati, Joyce El Haddad, Suzanne Pinson. A Multi-Agent Approach for Trust-based Service Discovery and Selection in Social Networks. Scalable Computing: Practice and Experience, 16 (4) : 333-353, 2015. 
-* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. CPN-TWS: A Colored Petri-Net Approach for Transactional-QoS driven Web Service Composition. International Journal of Web and Grid Services (IJWGS), 7 (1) : 91-115, 2011.
-* Joyce El Haddad, Maude Manouvrier, Marta Rukoz. TQoS: Transactional and QoSaware selection algorithm for automatic Web service composition. IEEE Transaction on Service Computing (TCS), 3 (1): 73-85, 2010. (cited 422 times, ranked 266 by Web of Science out of 53146 articles of most influence paper published between 2010 to 2014)
-* Joyce El Haddad, Serge Haddad. A fault-tolerant communication mechanism for cooperative robots. International Journal of Production Research (IJPR), 42(14), pages 2793-2808, 2004.
+---
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. _Fuzzy ACID Properties for Self-Adaptive Composite Cloud Services Execution_. Concurrency and Computation : Practice and Experience, November 2017
+* Amine Louati, Joyce El Haddad, Suzanne Pinson. _A Multi-Agent Approach for Trust-based Service Discovery and Selection in Social Networks_. Scalable Computing: Practice and Experience, 16 (4) : 333-353, 2015. 
+* Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. _CPN-TWS: A Colored Petri-Net Approach for Transactional-QoS driven Web Service Composition_. International Journal of Web and Grid Services (IJWGS), 7 (1) : 91-115, 2011.
+* Joyce El Haddad, Maude Manouvrier, Marta Rukoz. _TQoS: Transactional and QoSaware selection algorithm for automatic Web service composition_. IEEE Transaction on Service Computing (TCS), 3 (1): 73-85, 2010. (cited 422 times, ranked 266 by Web of Science out of 53146 articles of most influence paper published between 2010 to 2014)
+* Joyce El Haddad, Serge Haddad. _A fault-tolerant communication mechanism for cooperative robots_. International Journal of Production Research (IJPR), 42(14), pages 2793-2808, 2004.
 
 International Conferences and Workshops 
-======
-* Wissam Gherissi, Joyce El Haddad, Daniela Grigori. **Object-centric Predictive Process Monitoring**. The 3rd International Workshop on AI-enabled Process Automation AI-PA, ICSOC 2022.
-* Damien Jaime, Joyce El Haddad, Pascal Poizat. **A preliminary study of rhythm and speed in the maven ecosystem**. The 21st Belgium-Netherlands Software Evolution Workshop – BENEVOL - 2022
+---
+* Wissam Gherissi, Joyce El Haddad, Daniela Grigori. Object-centric Predictive Process Monitoring. The 3rd International Workshop on AI-enabled Process Automation AI-PA, ICSOC 2022.
+* Damien Jaime, Joyce El Haddad, Pascal Poizat. A preliminary study of rhythm and speed in the maven ecosystem. The 21st Belgium-Netherlands Software Evolution Workshop – BENEVOL - 2022
 * Zakaria Maamar, Noura Faci, Joyce El Haddad, Fadwa Yahya, Mohammad Askar. Multi-party Contract Management for Microservices. International Conference on Software Technologies ICSOFT 2022: 276-287
 * Yudith Cardinale, Joyce El Haddad, Maude Manouvrier, Marta Rukoz. Measuring Fuzzy Atomicity for Composite Service Execution. International Conference on Open and Big Data (OBD 2016), Vienna, Austria, August 2016, IEEE Computer Society, pp. 62–71, 2016. (invited paper)
 * Faisal Abu-Khzam, Cristina Bazgan, Joyce El Haddad, Florian Sikora. On the Complexity of QoS-Aware Service Selection Problem. International Conference on Service-Oriented Computing (ICSOC 2015), pages 345-352, 2015.  (classement CORE : A, taux de sélection : 25%) 
@@ -50,7 +51,7 @@ International Conferences and Workshops
 * Joyce El Haddad, Serge Haddad. A Self-Stabilizing Scheduling Algorithm for Cooperating Robots.  ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2003), pages 128 - 135, 2003.
 
 National Conferences and Workshops
-=====
+---
 * Amine Louati, Joyce El Haddad, Suzanne Pinson. Formation de coalitions pour une composition de services Web fondée sur la confiance dans les réseaux sociaux.  Journées Francophones sur les Systèmes Multi-Agents (JFSMA), 2017: 149-158.
 * Amine Louati, Joyce El Haddad, Suzanne Pinson. Expérimentation et évaluation d’une approche multi-agents pour la découverte de services Web fondée sur la confiance. Conférence Nationale en Intelligence Artificielle (CNIA), 2016.
 * Amine Louati, Joyce El Haddad, Suzanne Pinson. Une Approche Multi-Agent basée sur la Confiance pour une Découverte Distribuée de Services dans les Réseaux Sociaux. Journées Francophones sur les Systèmes Multi-Agents (JFSMA), 2014. 
