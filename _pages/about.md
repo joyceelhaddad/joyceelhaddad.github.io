@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Service Oriented Computing and Process Mining, co-head of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) Team in [LAMSADE](https://www.lamsade.dauphine.fr/en.html) CNRS UMR 7243 research center at [Université Paris Dauphine](https://dauphine.psl.eu/). 
+I am an Assistant Professor in Service Oriented Computing, and Business Processes and Softawre Mining
 
-Office : P639, Tel : +33144054919
+Co-head of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) Team in [LAMSADE](https://www.lamsade.dauphine.fr/en.html) CNRS UMR 7243 research center at [Université Paris Dauphine](https://dauphine.psl.eu/). 
+
+Office : P639
+
+Tel : +33 1 44 05 49 19
 
 
 Research interests
