@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Service Oriented Computing, Software and Process Mining
+### I am an Assistant Professor in Service Oriented Computing, Software and Process Mining
 
-Co-head of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) Team in [LAMSADE](https://www.lamsade.dauphine.fr/en.html) CNRS UMR 7243 research center, [Université Paris Dauphine](https://dauphine.psl.eu/) 
+### Co-head of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) Team in [LAMSADE](https://www.lamsade.dauphine.fr/en.html) CNRS UMR 7243 research center, [Université Paris Dauphine](https://dauphine.psl.eu/) 
 
-Office : P639
+### Office : P639, 
+### Tel : +33 1 44 05 49 19
 
-Tel : +33 1 44 05 49 19
 
-
-Research interests
-------
-
-### Research interests
+## Research interests
 
 My current research activity addresses:
 * Predictive Process Mining 
@@ -31,3 +27,15 @@ My other research activity deals with :
 * Transactional Web services composition
 * Quality of Service Mangaement 
 * Fault-tolerance in distributed systems
+
+## Short Bio 
+
+* 2005 : Associate Professor (Maître de conférences), Université Paris-Dauphine
+
+* 2003-2004: Temporary Assistant Professor (ATER), Université Paris-Dauphine
+
+* 2004 : Ph.D. in Computer Science from Université Paris-Dauphine
+
+* 2000 : Master degree " Informatique, Automatique et Productique"
+Option "Systèmes Distribués, Parallélisme et Réseaux" from Université de Franche-Comté
+
