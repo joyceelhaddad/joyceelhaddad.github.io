@@ -19,6 +19,9 @@ Tel : +33 1 44 05 49 19
 
 Research interests
 ------
+
+### Research interests
+
 My current research activity addresses:
 * Predictive Process Mining 
 * Software Mining
