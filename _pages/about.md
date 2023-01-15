@@ -17,7 +17,7 @@ Research interests
 ------
 My current research activity addresses:
 * Business Process Management 
-* Mining Business Processes and Softwares
+* Mining Business Processes and Software
 * Cloud, Edge, Microservices Management 
 
 My other research activity deals with : 
