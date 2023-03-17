@@ -25,7 +25,7 @@ My other research activity deals with :
 * Quality of Service Mangaement 
 * Fault-tolerance in distributed systems
 
-### Short Bio
+### Education and Work Experience
 
 * 2005- : Assistant Professor (Maître de conférences), Université Paris-Dauphine
 * 2003-2005: Temporary Assistant Professor (ATER), Université Paris-Dauphine

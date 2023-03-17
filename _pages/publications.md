@@ -14,7 +14,7 @@ author_profile: true
 
 Editorship
 ---
-* Muhammad Younas, Irfan Awan, Joyce El Haddad. Proceedings of the 4th IEEE International Conference on Future Internet of Things and Cloud Workshops, FiCloud Workshops 2016, Vienna, Austria, August 22-24, IEEE Computer Society, 2016. 
+* Muhammad Younas, Irfan Awan, Joyce El Haddad. Proceedings of the 4th IEEE International Conference on Future Internet of Things and Cloud Workshops, FiCloud Workshops 2016, Vienna, Austria, August 22-24, IEEE Computer Society, 2016. [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Book Chapters 
 ---
