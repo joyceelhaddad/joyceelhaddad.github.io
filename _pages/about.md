@@ -13,8 +13,8 @@ I am an Assistant Professor in Service Oriented Computing, Software and Process 
 Co-head of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) Team in [LAMSADE](https://www.lamsade.dauphine.fr/en.html) CNRS UMR 7243 research center, [Université Paris Dauphine](https://dauphine.psl.eu/) 
 
 
-Research interests
----
+### Research interests
+
 My current research activity addresses:
 * Predictive Process Mining 
 * Software Mining
@@ -25,8 +25,8 @@ My other research activity deals with :
 * Quality of Service Mangaement 
 * Fault-tolerance in distributed systems
 
-Short Bio
----
+### Short Bio
+
 * 2005- : Assistant Professor (Maître de conférences), Université Paris-Dauphine
 * 2003-2005: Temporary Assistant Professor (ATER), Université Paris-Dauphine
 * 2000-2004 : Ph.D. in Computer Science from Université Paris-Dauphine
