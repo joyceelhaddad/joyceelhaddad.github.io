@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+> Between 2005 and 2020, my research work was in the field of automatic service composition, taking into account their non-functional properties. It mainly concerned the study of the problems of discovery, selection and execution of a service composition. The results obtained mainly concern the study of the exact complexity of the problem of optimal service selection for both single and multi-criteria Quality of Service (QoS), the consideration of trust in service providers as a criterion for discovery and selection, and the reliability of the execution of a service composition.
+
+> Since 2020, my research work has evolved towards contract management for the deployment and execution of microservices in the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
+
+> All of my research results have been achieved in the context of local, national or international collaborations.
+
 
 Editorship
 ---
