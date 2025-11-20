@@ -16,9 +16,16 @@ Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/) CNRS UMR 7243 res
 
 Research 
 ------
-Before 2020, my research work focused on the automatic composition of services, taking into account their non-functional properties. It mainly concerned the study of problems relating to the discovery, selection and execution of service composition. The results obtained mainly concern the study of the complexity of the problem of optimal service selection in the single and multi-criteria framework of Quality of Service, the consideration of trust in service providers as a criterion for discovery and selection, and the reliability of service composition execution.
+Until 2020, my research work focuses on <font color="#A628A0"><i>automatic service composition</i></font>, taking into account their <font color="#A628A0"><i>non-functional properties</i></font>. It mainly concerned the study of the problems of discovery, selection and execution of a service composition. The results obtained mainly concern the study of the exact complexity of the problem of optimal service selection for both single and multi-criteria Quality of Service (QoS), the consideration of trust in service providers as a criterion for discovery and selection, and the reliability of the execution of a service composition.
 
-Since 2020, in a context marked by the evolution of service-oriented architectures and the rise of artificial intelligence, I have refocused my research work on three areas: firstly, the management of contracts related to the deployment and execution of micro-services in the Cloud, and secondly, process and software mining. 
+Since 2021, my research work has evolved towards contract management for the <font color="#A628A0"><i>deployment and execution of microservices</i></font> in the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards <font color="#A628A0"><i>process and software mining</i></font>. 
+
+*All of my research results have been achieved in the context of local, national or international collaborations.*
+
+
+Publication
+------
+
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
