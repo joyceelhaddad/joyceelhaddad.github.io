@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Associate Professor in Computer Science at [Université Paris Dauphine - PSL](https://dauphine.psl.eu/). 
+I am an Associate Professor in Computer Science at [Université Paris Dauphine - PSL](https://dauphine.psl.eu/). I am a member of the MINER team of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.
 
 My research interests include Service Oriented Computing, Software and Process Mining. 
 
-I am Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/) CNRS UMR 7243 research center.
+Currently, I am serving as a Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/) CNRS UMR 7243 research center.
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
