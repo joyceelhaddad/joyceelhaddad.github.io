@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Joyce El Haddad"
 title_separator          : "-"
 name                     : &name "Dr. Joyce El Haddad"
-description              : &description "Associate Professor at University Paris Dauphine - PSL"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Associate Professor at Université Paris Dauphine-PSL"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://joyceelhaddad.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Computer Science"
   location         : "Paris"
-  employer         : "University Paris Dauphine - PSL"
+  employer         : "Université Paris Dauphine-PSL"
   uri              : # URL
   email            : "joyce.elhaddad@dauphine.fr" 
 
