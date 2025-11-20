@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Computer Science at [Université Paris Dauphine - PSL](https://dauphine.psl.eu/). I am a member of the MINER team of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.
+I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the MINER team of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.
 
 My research interests include Service Oriented Computing, Software and Process Mining. 
 
