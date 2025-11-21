@@ -23,7 +23,7 @@ repository               : "joyceelhaddad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo_3.jpg"
+  avatar           : "my_photo_3_centre.jpg"
   name             : "Joyce El Haddad"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Computer Science"
