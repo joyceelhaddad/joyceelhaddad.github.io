@@ -23,8 +23,26 @@ Since 2021, my research work has evolved towards contract management for the <fo
 *All of my research results have been achieved in the context of local, national or international collaborations.*
 
 
-Publication
+**Publications**: [dblp](https://dblp.org/pid/91/6045.html), [HAL](https://hal.science/search/index?q=joyce+el+haddad)
+
+**Supervision of PhD students**
+
+Some recent duties 
 ------
+- Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023).
+- Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
+- Elected member of the representative advisory committee on computer science at Univ. Paris Dauphine (since 2019). 
+- Vice-Chair of the associate professor recruiting committee for computer science at Univ. Paris Dauphine (2023)
+
+- Deputy Director of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine University (since January 2024).
+- Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).
+- Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).
+- Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making. [Watch the replay](https://www.lamsade.dauphine.fr/fr.html)
+
+
+Teaching 
+------
+
 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
