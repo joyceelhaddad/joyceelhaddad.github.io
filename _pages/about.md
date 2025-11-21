@@ -21,21 +21,21 @@ Until 2020, my research work delt with efficiency, reliability, and trustworthin
 Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 
 **Publications**: [dblp](https://dblp.org/pid/91/6045.html), [HAL](https://hal.science/search/index?q=joyce+el+haddad)
-[All pdf of my papers are available [here](https://joyceelhaddad.github.io/publications/)]
+[All pdf of my papers are available [here](https://joyceelhaddad.github.io/no-menu-page/)]
 
 
 Supervision of PhD students
 ------
 - Fanuel Mehari (2025-) <br>
-  Analyse et réparation dans les chaînes d'approvisionnement logicielles, with Pascal Poizat.
+  Analyse et réparation dans les chaînes d'approvisionnement logicielles, with [Pascal Poizat](https://pascalpoizat.github.io/)
 -	Silas Workmann (2025-) <br>
-  Leveraging Machine Learning Models for Business Process Management, with Daniela Grigori.
+  Leveraging Machine Learning Models for Business Process Management, with Daniela Grigori
 -	Damien Jaime (2021-2025) <br>
-  Analysis of dependencies and evolution in software ecosystems, with Pascal Poizat.
+  Analysis of dependencies and evolution in software ecosystems, with [Pascal Poizat](https://pascalpoizat.github.io/)
 -	Wissam Gherissi (2021-2025) <br>
-  Causal and contextual analysis of process-centred data, with Daniela Grigori.
+  Causal and contextual analysis of process-centred data, with Daniela Grigori
 -	Amine Louati (2011-2015)<br>
-  A multi-agent approach to web service composition based on trust and social networks, with Suzanne Pinson
+  A multi-agent approach to web service composition based on trust and social networks, with [Suzanne Pinson](https://www.lamsade.dauphine.fr/~pinson/)
 
 
 Some recent duties 
