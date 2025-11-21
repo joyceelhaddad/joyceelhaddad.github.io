@@ -7,40 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.
-
-My research interests include Service Oriented Computing, Software and Process Mining. 
-
-Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/) CNRS UMR 7243 research center.
-
+I am Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). <br>
+Member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.<br>
+Currently acting as Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center.
 
 Research 
 ------
-Until 2020, my research work focuses on <font color="#A628A0"><i>automatic service composition</i></font>, taking into account their <font color="#A628A0"><i>non-functional properties</i></font>. It mainly concerned the study of the problems of discovery, selection and execution of a service composition. The results obtained mainly concern the study of the exact complexity of the problem of optimal service selection for both single and multi-criteria Quality of Service (QoS), the consideration of trust in service providers as a criterion for discovery and selection, and the reliability of the execution of a service composition.
 
-Since 2021, my research work has evolved towards contract management for the <font color="#A628A0"><i>deployment and execution of microservices</i></font> in the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards <font color="#A628A0"><i>process and software mining</i></font>. 
+My research interests include Service-oriented Computing, Software and Process Mining. 
 
-*All of my research results have been achieved in the context of local, national or international collaborations.*
+Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness.
 
+Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 
 **Publications**: [dblp](https://dblp.org/pid/91/6045.html), [HAL](https://hal.science/search/index?q=joyce+el+haddad)
+[All pdf of my papers are available [here](https://joyceelhaddad.github.io/publications/)]
 
-**Supervision of PhD students**
 
-**test** this is a test to no menu page [/non-menu-page/](https://joyceelhaddad.github.io/non-menu-page/)
+Supervision of PhD students
+------
+- Fanuel Mehari (2025-) <br>
+  Analyse et réparation dans les chaînes d'approvisionnement logicielles, with Pascal Poizat.
+-	Silas Workmann (2025-) <br>
+  Leveraging Machine Learning Models for Business Process Management, with Daniela Grigori.
+-	Damien Jaime (2021-2025) <br>
+  Analysis of dependencies and evolution in software ecosystems, with Pascal Poizat.
+-	Wissam Gherissi (2021-2025) <br>
+  Causal and contextual analysis of process-centred data, with Daniela Grigori.
+-	Amine Louati (2011-2015)<br>
+  A multi-agent approach to web service composition based on trust and social networks, with Suzanne Pinson
+
 
 Some recent duties 
 ------
+At national level : 
 - Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023).
-- Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
-- Elected member of the representative advisory committee on computer science at Univ. Paris Dauphine (since 2019). 
-- Vice-Chair of the associate professor recruiting committee for computer science at Univ. Paris Dauphine (2023)
 
-- Deputy Director of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine University (since January 2024).
+At university level : 
+- Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
+- Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
+
+At LAMSADE level:
+- Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024). 
 - Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).
 - Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).
-- Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making. [Watch the replay](https://www.lamsade.dauphine.fr/fr.html)
-
+- Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making ([watch the replay](https://www.lamsade.dauphine.fr/fr.html))
 
 Teaching 
 ------
