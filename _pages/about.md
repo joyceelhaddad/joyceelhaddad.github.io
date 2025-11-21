@@ -27,6 +27,8 @@ Since 2021, my research work has evolved towards contract management for the <fo
 
 **Supervision of PhD students**
 
+**test** this is a test to no menu page [/non-menu-page/](https://joyceelhaddad.github.io/non-menu-page/)
+
 Some recent duties 
 ------
 - Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023).
