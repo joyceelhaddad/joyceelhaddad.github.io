@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). <br>
+Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). <br>
 Member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center.<br>
 Currently acting as Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center.
 
@@ -21,7 +21,6 @@ Until 2020, my research work delt with efficiency, reliability, and trustworthin
 Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 
 **Publications**: [dblp](https://dblp.org/pid/91/6045.html), [HAL](https://hal.science/search/index?q=joyce+el+haddad)
-[All pdf of my papers are available [here](https://joyceelhaddad.github.io/no-menu-page/)]
 
 
 Supervision of PhD students
