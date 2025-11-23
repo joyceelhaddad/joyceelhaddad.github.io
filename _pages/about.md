@@ -16,11 +16,11 @@ Research
 
 My research interests include Service-oriented Computing, Software and Process Mining. 
 
-Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness.
+Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness. 
 
 Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 
-**Publications**: [dblp](https://dblp.org/pid/91/6045.html), most pdf versions of my papers are available on [HAL](https://hal.science/search/index?q=joyce+el+haddad)
+**Publications**: [dblp](https://dblp.org/pid/91/6045.html), pdf versions of most of my papers are available on [HAL](https://hal.science/search/index?q=joyce+el+haddad)
 
 
 Supervision of PhD students
@@ -37,16 +37,16 @@ Supervision of PhD students
   A multi-agent approach to web service composition based on trust and social networks, with [Suzanne Pinson](https://www.lamsade.dauphine.fr/~pinson/)
 
 
-Some recent duties 
+Recent duties 
 ------
-At national level : 
-- Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023).
+At national level :  <br>
+- Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023). 
 
-At university level : 
+At university level :  <br>
 - Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
 - Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
 
-At LAMSADE level:
+At LAMSADE level: <br>
 - Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024). 
 - Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).
 - Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).
