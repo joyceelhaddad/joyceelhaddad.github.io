@@ -18,8 +18,9 @@ Research
 My research interests include Service-oriented Computing, Software and Process Mining. 
 
 <div style="text-align: justify; text-justify: inter-word;">
-Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness. <br>
-
+Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness. 
+</div>
+<div style="text-align: justify; text-justify: inter-word;">
 Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 </div>
 
