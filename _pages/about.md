@@ -44,30 +44,23 @@ Supervision of PhD students
 
 Recent duties 
 ------
-<p align="justify">
-At national level :<br>
+At national level:
 - Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023). 
-</p>
 
-<p align="justify">  
-At university level :  <br>
+At university level:
 - Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
 - Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
-</p>
 
-<p align="justify">
-At LAMSADE level: <br>
-- Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024). <br>
-- Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).<br>
-- Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
+At LAMSADE level:
+- Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).
+- Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).
+- Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).
 - Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the link https://www.lamsade.dauphine.fr/fr.html)
-</p>
 
 Teaching (in French)
 ------
-
 M1 MIAGE / I2D : 1st year of master 
-- Mise à niveau Systèmes d'Exploitation (Operating System Upgrade) 
+- Mise à niveau Systèmes d'Exploitation (Operating System Upgrade) : for all material go to /
 - Systèmes et Algortihmiques Répartis (Distribtuted Systems and Algorithms)
 
 
