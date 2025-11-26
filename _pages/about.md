@@ -12,7 +12,7 @@ About me
 
 I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
-Soon, you can find my HDR manuscript [here](https://academicpages.github.io/files/hdr.pdf) 
+Soon, you can find my HDR manuscript [here](https://joyceelhaddad.github.io/files/hdr.pdf) 
 
 
 Research 
@@ -57,7 +57,7 @@ Teaching (in French)
 ------
 M1 MIAGE / I2D : 1st year of master 
 - Mise à niveau Systèmes d'Exploitation
-- [Systèmes et Algortihmiques Répartis] (https://joyceelhaddad.github.io/_pages/no-menu-page)
+- [Systèmes et Algortihmiques Répartis](https://joyceelhaddad.github.io/_pages/no-menu-page)
 
 
 
