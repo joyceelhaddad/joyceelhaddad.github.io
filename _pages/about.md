@@ -12,7 +12,7 @@ About me
 
 I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
-You can find my HDR manuscript [here](https://academicpages.github.io/files/hdr.pdf) 
+Soon, you can find my HDR manuscript [here](https://academicpages.github.io/files/hdr.pdf) 
 
 
 Research 
@@ -51,13 +51,13 @@ Recent duties
   o Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).<br>
   o Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine–PSL (since 2023).<br>
   o Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
-  o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the [link] (https://www.lamsade.dauphine.fr/fr.html))
+  o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the [link](https://www.lamsade.dauphine.fr/fr.html))
 
 Teaching (in French)
 ------
 M1 MIAGE / I2D : 1st year of master 
-- [Mise à niveau Systèmes d'Exploitation](https://joyceelhaddad.github.io/_pages/no-menu-page)
-- Systèmes et Algortihmiques Répartis (Distribtuted Systems and Algorithms)
+- Mise à niveau Systèmes d'Exploitation
+- [Systèmes et Algortihmiques Répartis] (https://joyceelhaddad.github.io/_pages/no-menu-page)
 
 
 
