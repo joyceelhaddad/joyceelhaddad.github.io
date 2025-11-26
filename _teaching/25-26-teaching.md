@@ -6,6 +6,7 @@ permalink: /teaching/
 venue: "Université Paris Dauphine-PSL, MIDO"
 date: 2025-09-01
 location: "Paris, France"
+share : false
 ---
 
 Enseignement 
