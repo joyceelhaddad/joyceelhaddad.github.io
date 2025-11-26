@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /non-menu-page/
 title: " "
 author_profile: true
 redirect_from: 
