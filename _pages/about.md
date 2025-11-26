@@ -11,23 +11,17 @@ About me
 ------
 I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
-You can find my HDR manuscript here 
+You can find my HDR manuscript [here](https://academicpages.github.io/files/hdr.pdf) 
 
 Research 
 ------
-
 My research interests include Service-oriented Computing, Software and Process Mining. 
 
-<p align="justify">
 Until 2020, my research work delt with efficiency, reliability, and trustworthiness in service-oriented systems. More specifically, I was interested in the optimisation of non-functional properties in service compositions and their enhancement with social aspects. In this context, I have developed approaches based on models derived from combinatorial optimization and graph theory, focusing mainly on discovering, selecting, composing, and executing services while ensuring quality optimization, failure recovery, and trustworthiness.<br>
-</p>
 
-<p align="justify">
 Since 2021, my research work has evolved towards contract management for the deployment and execution of microservices in the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
-</p>
 
 **Publications**: [dblp](https://dblp.org/pid/91/6045.html), pdf versions of most of my papers are available on [HAL](https://hal.science/search/index?q=joyce+el+haddad)
-
 
 Supervision of PhD students
 ------
@@ -41,7 +35,6 @@ Supervision of PhD students
   Causal and contextual analysis of process-centred data, with Daniela Grigori
 -	Amine Louati (2011-2015)<br>
   A multi-agent approach to web service composition based on trust and social networks, with [Suzanne Pinson](https://www.lamsade.dauphine.fr/~pinson/)
-
 
 Recent duties 
 ------
