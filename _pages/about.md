@@ -57,7 +57,7 @@ Teaching (in French)
 ------
 M1 MIAGE / I2D : 1st year of master 
 - Mise à niveau Systèmes d'Exploitation
-- [Systèmes et Algortihmiques Répartis](https://joyceelhaddad.github.io/teaching)
+- [Systèmes et Algortihmiques Répartis](https://joyceelhaddad.github.io/teaching/)
 
 
 
