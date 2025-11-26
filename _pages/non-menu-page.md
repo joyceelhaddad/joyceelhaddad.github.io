@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-title: "Teaching"
+permalink: /teaching/
+title: " "
 author_profile: true
 redirect_from: 
   - "/nmp/"
