@@ -53,10 +53,10 @@ Recent duties
   o Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
   o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the [link](https://www.lamsade.dauphine.fr/fr.html))
 
-Teaching (in French)
+Teaching
 ------
 I teach in [Computer Science Master's program](https://dauphine.psl.eu/en/training/masters-degrees) at Mathematics and Computer Science departement of Université Paris Dauphine-PSL.<br>
-The list of the courses I teach currently is available [here](https://joyceelhaddad.github.io/teaching/).
+The list of the courses I teach currently is available [here](https://joyceelhaddad.github.io/teaching/)(in French).
 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
