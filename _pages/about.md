@@ -41,23 +41,26 @@ Supervision of PhD students
 Recent duties 
 ------
 - At national level:<br>
-  o Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023). 
+  o Member of the **National Council of (French) Universities** (CNU 27) for computer science (2019-2023). 
 
 - At university level:<br>
-  o Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).<br>
-  o Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
+  o Elected member of the **Board of Governors** (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).<br>
+  o Elected member of the **representative advisory committee on Computer Science** (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
 
 - At LAMSADE level:<br>
-  o Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).<br>
-  o Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine–PSL (since 2023).<br>
+  o **Deputy Director of LAMSADE CNRS UMR 7243**, Université Paris Dauphine-PSL (since January 2024).<br>
+  o Member of the **Laboratory Council** (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine–PSL (since 2023).<br>
   o Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
   o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the [link](https://www.lamsade.dauphine.fr/fr.html))
 
 Teaching (in French)
 ------
+I teach in [Computer Science Master's program](https://dauphine.psl.eu/en/training/masters-degrees) at Mathematics and Computer Science departement of Université Paris Dauphine-PSL.<br>
+A list of the courses I teach currently is available [here](https://joyceelhaddad.github.io/teaching/).
+
 M1 MIAGE / I2D : 1st year of master 
 - Mise à niveau Systèmes d'Exploitation
-- [Systèmes et Algortihmiques Répartis](https://joyceelhaddad.github.io/teaching/)
+- [Systèmes et Algortihmiques Répartis]()
 
 
 
