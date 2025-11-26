@@ -1,11 +1,11 @@
 ---
 title: " "
 collection: teaching
-type: false
+type: 
 permalink: /teaching/
-venue: false
+venue: 
 date: 2025-09-01
-location: "Paris, France"
+location: 
 share : false
 ---
 
