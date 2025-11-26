@@ -1,7 +1,11 @@
 ---
-title: " "
+title: "Teaching experience"
+collection: teaching
+type: "graduate course"
 permalink: /teaching/
-share: false
+venue: "Université Paris Dauphine-PSL, MIDO"
+date: 2025-09-01
+location: "Paris, France"
 ---
 
 Enseignement 
