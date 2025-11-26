@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) <br>
-Member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center<br>
-Deputy Director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center
+About me
+------
+I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
+You can find my HDR manuscript here 
 
 Research 
 ------
@@ -22,7 +23,7 @@ Until 2020, my research work delt with efficiency, reliability, and trustworthin
 </p>
 
 <p align="justify">
-Since 2021, my research work has evolved towards contract management for the deployment and execution of microservicesin the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
+Since 2021, my research work has evolved towards contract management for the deployment and execution of microservices in the Cloud. Furthermore, with the rise of artificial intelligence, I have oriented my research towards process and software mining. 
 </p>
 
 **Publications**: [dblp](https://dblp.org/pid/91/6045.html), pdf versions of most of my papers are available on [HAL](https://hal.science/search/index?q=joyce+el+haddad)
@@ -44,18 +45,18 @@ Supervision of PhD students
 
 Recent duties 
 ------
-At national level:
-- Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023). 
+- At national level:<br>
+  o Member of the National Council of (French) Universities (CNU 27) for computer science (2019-2023). 
 
-At university level:
-- Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).
-- Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
+- At university level:<br>
+  o Elected member of the Board of Governors (Conseil d'Administration) of Université Paris Dauphine-PSL (since 2024).<br>
+  o Elected member of the representative advisory committee on Computer Science (CCR Informatique) of Université Paris Dauphine-PSL (since 2019).
 
-At LAMSADE level:
-- Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).
-- Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine – PSL (since 2023).
-- Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).
-- Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the link https://www.lamsade.dauphine.fr/fr.html)
+- At LAMSADE level:<br>
+  o Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).<br>
+  o Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine–PSL (since 2023).<br>
+  o Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
+  o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the link https://www.lamsade.dauphine.fr/fr.html)
 
 Teaching (in French)
 ------
