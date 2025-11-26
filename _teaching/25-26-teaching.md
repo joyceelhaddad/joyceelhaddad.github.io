@@ -3,14 +3,6 @@ title: " "
 permalink: /teaching/
 ---
 
-<!-- 
-Summary of teaching activity
-=======
-volume :	> 4 672 hours (since 2005)<br>
-student level :	undergraduate and postgraduate 
-courses :	distributed systems and algorithms, programming basics (Java, Java Object), advanced programming (web services), internet application design and development, networks and operating systems. 
--->
-
 Enseignement 
 ======
 
