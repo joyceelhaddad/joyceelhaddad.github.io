@@ -1,6 +1,7 @@
 ---
 title: " "
 permalink: /teaching/
+share: false
 ---
 
 Enseignement 
