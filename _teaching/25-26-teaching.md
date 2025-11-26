@@ -10,7 +10,7 @@ Voici la liste des enseignements dans lesquels j'interviens actuellement au nive
 - Mise à niveau Systèmes d'Exploitation  
 - Systèmes et Algorithmiques réparties
 
-**Systèmes et Algorithmiques réparties** 
+### Systèmes et Algorithmiques réparties
 Dans ce cours, les étudiants apprennent les concepts de base des systèmes et des algorithmes associés aux environnements distribués. Nous abordons les chapitres suivants :
 - Chapitre 1 : [Introduction aux systèmes distribués et aux algorithmes distribués](https://joyceelhaddad.github.io/files/SAR/2_Chapitre1_Generalites.pdf)
 - Chapitre 2 : [La communication](https://joyceelhaddad.github.io/files/SAR/3_Chapitre2_Communication.pdf)
