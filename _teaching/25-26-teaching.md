@@ -6,7 +6,7 @@ permalink: /teaching/
 Enseignement 
 ======
 
-Je bénéficie d'une décharge de 96hEqTD pour la fonction de directrice adjointe du LAMSADE. Voici la liste des enseignements dans lesquels j'interviens actuellement au niveau du Master 1 MIAGE et du Master 1 Informatique, Décision, Données (I2D) aussi bien en formation initiale qu'en formation par apprentissage  : 
+Voici la liste des enseignements dans lesquels j'interviens actuellement au niveau du Master 1 MIAGE et du Master 1 Informatique, Décision, Données (I2D) aussi bien en formation initiale qu'en formation par apprentissage : 
 - Mise à niveau Systèmes d'Exploitation  
 - Systèmes et Algorithmiques réparties
 
