@@ -1,11 +1,11 @@
 ---
-title: " "
+title: " Teaching Exp"
 collection: teaching
-type: 
+type: "undergrad "
 permalink: /teaching/
-venue: 
-date: 
-location: 
+venue: " Université Paris Dauphine"
+date: 2025-09-01 
+location: "Paris, France"
 share : false
 ---
 
