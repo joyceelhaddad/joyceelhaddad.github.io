@@ -9,11 +9,11 @@ redirect_from:
 
 About me
 ------
-<div style="text-align: justify; text-justify: inter-word;">
+
 I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
 You can find my HDR manuscript [here](https://academicpages.github.io/files/hdr.pdf) 
-</div>
+
 
 Research 
 ------
