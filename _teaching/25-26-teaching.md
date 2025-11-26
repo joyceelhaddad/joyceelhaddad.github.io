@@ -1,22 +1,22 @@
 ---
 title: "Teaching"
-collection: teaching
 permalink: /teaching/
 ---
 
+<!-- 
 Summary of teaching activity
 =======
 volume :	> 4 672 hours (since 2005)<br>
 student level :	undergraduate and postgraduate 
 courses :	distributed systems and algorithms, programming basics (Java, Java Object), advanced programming (web services), internet application design and development, networks and operating systems. 
+-->
 
-Teaching/Enseignement 25-26
+Enseignement 
 ======
 
-Voici une liste des enseignements dans lesquels j'interviens actuellement :
-- Master 1 MIAGE et Master 1 I2D (Informatique, Décision, Données) : Mise à niveau Systèmes d'Exploitation 
-- Master 1 MIAGE et Master 1 I2D : Systèmes et Algorithmiques réparties 
-
+Je bénéficie d'une décharge de 96hEqTD pour la fonction de directrice adjointe du LAMSADE. Voici la liste des enseignements dans lesquels j'interviens actuellement au niveau du Master 1 MIAGE et du Master 1 Informatique, Décision, Données (I2D) aussi bien en formation initiale qu'en formation par apprentissage  : 
+- Mise à niveau Systèmes d'Exploitation  
+- Systèmes et Algorithmiques réparties
 
 **Systèmes et Algorithmiques réparties** 
 Dans ce cours, les étudiants apprennent les concepts de base des systèmes et des algorithmes associés aux environnements distribués. Nous abordons les chapitres suivants :
