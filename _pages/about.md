@@ -51,12 +51,12 @@ Recent duties
   o Deputy Director of LAMSADE CNRS UMR 7243, Université Paris Dauphine-PSL (since January 2024).<br>
   o Member of the Laboratory Council (conseil de laboratoire) of LAMSADE CNRS UMR 7243, Univ. Paris Dauphine–PSL (since 2023).<br>
   o Co-head of the Data Science group, LAMSADE CNRS UMR 7243, Univ. Paris Dauphine– PSL (2020-2024).<br>
-  o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the link https://www.lamsade.dauphine.fr/fr.html)
+  o Co-organization and Co-chairing a round table for the 50th anniversary of LAMSADE with Jérôme Lang, January 2025. We invited experts including Serge Abitboul, Claire Mathieu, Isabelle Bloch, and Dominique Meda to discuss future challenges in AI, algorithms, data science and decision-making (to watch the replay, follow the [link] (https://www.lamsade.dauphine.fr/fr.html))
 
 Teaching (in French)
 ------
 M1 MIAGE / I2D : 1st year of master 
-- Mise à niveau Systèmes d'Exploitation (Operating System Upgrade) : for all material go to /
+- [Mise à niveau Systèmes d'Exploitation](https://joyceelhaddad.github.io/_pages/no-menu-page)
 - Systèmes et Algortihmiques Répartis (Distribtuted Systems and Algorithms)
 
 
