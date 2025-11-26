@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/
 venue: 
-date: 2025-09-01
+date: 
 location: 
 share : false
 ---
