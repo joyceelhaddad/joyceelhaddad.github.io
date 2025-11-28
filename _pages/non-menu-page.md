@@ -21,4 +21,8 @@ Dans ce cours, les étudiants apprennent les concepts de base des systèmes et d
 - Chapitre 3: [Le temps](https://joyceelhaddad.github.io/files/SAR/4_Chapitre3_Temps.pdf)
 - Chapitre 4 : [La conncurrence](https://joyceelhaddad.github.io/files/SAR/5_Chapitre4_Concurrence.pdf)
 - Chapitre 5 : [L'élection](https://joyceelhaddad.github.io/files/SAR/6_Chapitre5_Election.pdf)
-- Le polycopié
+- [Le polycopié](https://joyceelhaddad.github.io/files/SAR/9D_SAR_Polycopie.pdf)
+
+### Mise à niveau Systèmes d'Exploitation
+Dans ce cours, nous reprenons les concepts de base des systèmes d'exploitation. 
+- [Cours](https://joyceelhaddad.github.io/files/SAR/Rappel_SystemeExploitation_CM.pdf)
