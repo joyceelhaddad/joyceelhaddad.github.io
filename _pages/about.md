@@ -12,7 +12,7 @@ About me
 
 I am an Associate Professor in Computer Science at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I am a member of the [Data Science](https://www.lamsade.dauphine.fr/en/research/groups/data-science.html) group at [LAMSADE](https://www.lamsade.dauphine.fr/) research center. I am currently acting as a deputy director of [LAMSADE](https://www.lamsade.dauphine.fr/en/about-us/composition.html) CNRS UMR 7243 research center. 
 
-Soon, you can find my HDR manuscript [here](https://joyceelhaddad.github.io/files/hdr.pdf) 
+Soon, you will be able to find my HDR manuscript [here](https://joyceelhaddad.github.io/files/hdr.pdf) 
 
 
 Research 
@@ -32,7 +32,7 @@ Supervision of PhD students
 -	Silas Workmann (2025-) <br>
   Leveraging Machine Learning Models for Business Process Management, with Daniela Grigori
 -	Damien Jaime (2021-2025) <br>
-  Analysis of dependencies and evolution in software ecosystems, with [Pascal Poizat](https://pascalpoizat.github.io/)
+  Analysis and evolution of dependencies in software ecosystems, with [Pascal Poizat](https://pascalpoizat.github.io/)
 -	Wissam Gherissi (2021-2025) <br>
   Causal and contextual analysis of process-centred data, with Daniela Grigori
 -	Amine Louati (2011-2015)<br>
@@ -55,7 +55,7 @@ Recent duties
 
 Teaching
 ------
-I teach in [Computer Science Master's program](https://dauphine.psl.eu/en/training/masters-degrees) at Mathematics and Computer Science departement of Université Paris Dauphine-PSL.<br>
+I teach in [Computer Science Master's program](https://dauphine.psl.eu/en/training/masters-degrees) at the Mathematics and Computer Science departement of Université Paris Dauphine-PSL.<br>
 The list of the courses I teach currently is available [here](https://joyceelhaddad.github.io/non-menu-page/) (in French).
 
 
