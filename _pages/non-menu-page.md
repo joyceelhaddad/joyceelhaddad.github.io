@@ -6,6 +6,10 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
+Teaching at PSL 
+======
+I currently teach on the second-year Master's in Artificial Intelligence and Society programme, Graph Databases and Querying part of the Graph Analytics course : 
+- [Lecture 1 slides](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture1_GraphDatabases_Foundations_Neo4j.pdf)
 
 Enseignement 
 ======
@@ -16,7 +20,10 @@ Voici la liste des enseignements dans lesquels j'interviens actuellement au nive
 
 ### Mise à niveau Systèmes d'Exploitation
 Dans ce très rapide cours de mise à niveau, nous reprenons les concepts de base des systèmes d'exploitation. 
-- [Slides du cours](https://joyceelhaddad.github.io/files/SAR/Rappel_SystemeExploitation_CM.pdf)
+- Lecture 1: [Foundations of Graph Databases](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture1_GraphDatabases_Foundations_Neo4j.pdf)
+- Lab 1: [Neo4j](https://joyceelhaddad.github.io/files/GraphAnalytics/lab1.pdf)
+- Lecture 2: [Querying Graphs with Cypher](https://joyceelhaddad.github.io/files/GraphAnalytics/lecture2.pdf)
+- Lab 2: [Cyphre](https://joyceelhaddad.github.io/files/GraphAnalytics/lab2_Cypher_Basics.pdf)
   
 ### Systèmes et Algorithmiques réparties
 Dans ce cours, les étudiants apprennent les concepts de base des systèmes et des algorithmes associés aux environnements distribués. Nous abordons les chapitres suivants :
