@@ -8,8 +8,9 @@ redirect_from:
 ---
 Teaching at PSL 
 ======
-I currently teach on the second-year Master's in Artificial Intelligence and Society programme, Graph Databases and Querying part of the Graph Analytics course : 
-- [Lecture 1 slides](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture1_GraphDatabases_Foundations_Neo4j.pdf)
+Lecturer, Master's in Artificial Intelligence and Society (Year 2), Graph Analytics course – Graph Databases and Querying module :
+- Lecture 1: [Foundations of Graph Databases](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture1_GraphDatabases_Foundations_Neo4j.pdf)
+- 
 
 Enseignement 
 ======
