@@ -9,10 +9,10 @@ redirect_from:
 Teaching at PSL 
 ======
 Lecturer, Master's in Artificial Intelligence and Society (Year 2), Graph Analytics course – Graph Databases and Querying module :
-- Lecture 1: [Foundations of Graph Databases](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture1_GraphDatabases_Foundations_Neo4j.pdf)
-- Lab 1: [Neo4j](https://joyceelhaddad.github.io/files/GraphAnalytics/Lab1_neo4j_installation.pdf)
-- Lecture 2: [Querying Graphs with Cypher](https://joyceelhaddad.github.io/files/GraphAnalytics/Lecture2_GraphDatabases_Cypher_Basics.pdf)
-- Lab 2:[Cypher Basics](https://joyceelhaddad.github.io/files/GraphAnalytics/Lab2_Cyhper_basics.pdf)
+- Lecture 1: Foundations of Graph Databases
+- Lab 1: Neo4j installation
+- Lecture 2: Querying Graphs with Cypher
+- Lab 2:Cypher Basics
 
 Enseignement 
 ======
